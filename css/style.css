@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.grandpa{
+display: flex;
+height: 100vh;
+border: solid blue;
+flex-direction: column;
+align-items: center;
+
+
+
+}
+
+.parent{
+    display: flex;
+    gap: 2rem;
+    border: solid green;
+    
+}
+
+
+
+    .child1{
+background-color: blueviolet;
+
+
+}
+
+.child2{
+background-color: chocolate;
+
+}
+
+
+.child3{
+
+background-color: chartreuse;
+}
+
+.child4{
+background-color: crimson;
+
+
+}
+
+.parent2{
+    border:  solid red;
+    display: flex;
+}
+
+.child {
+    border: solid firebrick;
+    height: 5rem;
+    width: 5rem;
+    align-content: center;
+    
+}
+.child5{
+background-color: blueviolet;
+
+
+}
+
+.child6{
+background-color: chocolate;
+
+}
+
+
+.child7{
+
+background-color: chartreuse;
+}
+
+.child8{
+background-color: crimson;
+
+
+}
+
